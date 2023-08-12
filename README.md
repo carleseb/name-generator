@@ -6,13 +6,13 @@ This is a repository where I store the results following the lectures of an onli
 
 Outputs:
 
-der.
-bitan.
-jela.
-r.
-xjite.
-je.
-bqfrioghuiela.
-tarimpusanaum.
-lileyn.
+der.\
+bitan.\
+jela.\
+r.\
+xjite.\
+je.\
+bqfrioghuiela.\
+tarimpusanaum.\
+lileyn.\
 rnaainoha.
