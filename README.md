@@ -6,7 +6,7 @@ This is a repository where I store the results following the lectures of an onli
 
 ## Lecture 2
 
-Outputs:
+**Outputs:**
 
 der.\
 bitan.\
@@ -21,7 +21,7 @@ rnaainoha.
 
 ## Lecture 3
 
-Outputs:
+**Outputs:**
 
 pordi.\
 fen.\
@@ -33,3 +33,18 @@ reo.\
 jis.\
 siri.\
 evonywalle.
+
+## Lecture 4
+
+**Outputs:**
+
+chawry.\
+gir.\
+ego.\
+dazabeus.\
+josefynn.\
+zamarethy.\
+raniyan.\
+nylaylin.\
+kotana.\
+aleah.
